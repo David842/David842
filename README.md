@@ -1,10 +1,15 @@
 
 
 ![Aquí la descripción de la imagen por si no carga](https://github.com/David842/David842/blob/main/portada.jpeg?raw=true)
-<p style="text-align: center;"> 
-<center>
+
+ ## Hola 👋, Soy David
+
+  
+<p align="center">
 Llevo más de cuatro años como desarrollador. Durante estos años he colaborado en proyectos con diferentes tecnologías de lado de back end o front end. Me gusta aprender nuevas cosas y poner en práctica los nuevos conocimientos que adquiero. Soy una persona dedicada y comprometida con mi trabajo, me gusta lo que hago y entregar cosas de calidad.</p>
 
+</p>
+  
 # Lenguajes y tecnologias 
 <p align="center">
   <a href="https://skillicons.dev">
