@@ -13,7 +13,7 @@ Llevo más de cuatro años como desarrollador. Durante estos años he colaborado
 # Lenguajes y tecnologias 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,java,html,css,javascript,vue,react,angular,next,nuxt,androidstudio,flutter,git,grafana,php,mysql,firebase,tailwind" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,go,java,html,css,javascript,vue,react,angular,next,nuxt,androidstudio,flutter,git,grafana,php,mysql,firebase,tailwind,nginx" />
   </a>
 </p>
 
